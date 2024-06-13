@@ -1,0 +1,12 @@
+[
+{
+    "serial_number": 123456,
+    "title": "Book 1",
+    "author": "John Smith"
+},
+{
+    "serial_number": 234567,
+    "title": "Book 2",
+    "author": "Anna Smith"
+}
+]
